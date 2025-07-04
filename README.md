@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="assets/banner.png" alt="Anil Verma | Building Cloud-Native Data Quality Tools" width="100%" />
-</p>
-
 ## 👋 Hi, I'm Anil Verma
 
 ### AVP – Information Management | Cloud Data Quality Enthusiast | GCP & dbt Builder in Progress
