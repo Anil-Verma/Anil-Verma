@@ -1,7 +1,7 @@
 
 ## 👋 Hi, I'm Anil Verma
 
-### AVP – Information Management | Cloud Data Quality Enthusiast | GCP & dbt Builder in Progress
+### Cloud Data Quality Enthusiast | GCP & dbt Builder in Progress
 
 ---
 
